@@ -1,12 +1,12 @@
 {
-  "export_job_id": "67917d49-be23-479d-a692-fb435763824f",
+  "export_job_id": "0e4218d2-063d-486d-97f6-ddf77893ac70",
   "id_short": 488311,
-  "published_at": "2026-04-18T19:13:17Z",
+  "published_at": "2026-04-22T07:34:09Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-nevada-us-sample-488311",
   "sample_asset_name": "beamstation_488311_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/488311/beamstation_488311_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_records": 236,
-  "sample_sha256": "eccfce1caf253a0cfe639e0d9138425212e3853edf32a4dbcdd6cdc173c81271",
-  "sample_size_bytes": 990802,
-  "total_records": 2368
+  "sample_records": 195,
+  "sample_sha256": "d6f2a3f1f4e1a64640374aeab78ccf6fcf629360b897896c3e96ec9da71bf777",
+  "sample_size_bytes": 806013,
+  "total_records": 1958
 }
