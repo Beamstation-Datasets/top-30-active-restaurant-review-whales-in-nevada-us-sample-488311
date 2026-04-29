@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in Nevada, US
 
-> Free BeamStation sample export with 195 rows and masked direct-contact fields.
+> Free BeamStation sample export with 38 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `488311` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 1,958 records |
-| Free sample size | 195 records (9.96%) |
-| Last export | 2026-04-22T03:23:49.997854+00:00 |
+| Full dataset size | 380 records |
+| Free sample size | 38 records (10.0%) |
+| Last export | 2026-04-29T06:05:56.317669+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-nevada-us-sample-488311/releases/download/sample-latest/beamstation_488311_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
